@@ -77,7 +77,7 @@ Recruitment sources that inhibit diversity:
 
 Recruitment sources for which there is insufficient data to draw conclusions:
 
-**On-line web application**: only one employee recruited this way
+**On-line web application**: only one employee recruited this way  
 **Other**: only two employees recruited this way
 
-**Is compensation at the company equitable between identity groups?**
+### Is compensation at the company equitable between identity groups?
