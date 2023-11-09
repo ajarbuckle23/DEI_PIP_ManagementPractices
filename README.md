@@ -49,3 +49,35 @@ The company assigned employees with the lowest possible performance scores to Pe
 The initial evidence seemed to support the efficacy of PIP's, as the rates of involuntary termination for 'PIP' and 'Needs Improvement' employees were 15.4% and 27.8%, respectively. However, a chi-square test showed that there was insufficient evidence to conclude that the PIP's elevated employee performance so much that the employees outperformed those scoring a grade above in performance evaluations. Importantly, this analysis was constrained by a small sample size, with fewer than 20 employees in each group, which greatly limited the test's statistical power (its ability to capture a true effect). As a result, the company should continue investing in the PIP's and monitoring employee outcomes, and run a similar analysis once sample sizes increase. 
 
 ## Diversity and Equity Analysis
+
+This analysis was the most in-depth, being comprised of three parts for three separate questions. 
+
+**What is the overall diversity profile of the company?**
+
+I addressed this question by creating bar charts displaying the distribution of employees by various identity group categories: race, sex, Hispanic / Latino heritage, and US citizenship status. 
+
+**Which recruiting sources promote diversity?**
+
+I addressed this question by creating a table that displayed percentages of non-White, Female, Hispanic / Latino heritage, and non-US citizen employees across the company, as well as segmented through the various recruitment sources. The company-wide statistics provided benchmarks to compare the recruitment sources with, so that it became clear which recruitment sources promoted diversity and which didn't. These are the results: 
+
+Recruitment sources that promote diversity:
+
+**Diversity job fair**: this appears to be the best recruitment source overall for promoting diversity, as it ranks first for employees who are non-White, of Hispanic / Latino descent, and non-US citizens
+**Google search**: top recruitment source for female employees
+**CareerBuilder**: top recruitment source for female employees
+**Company website**: the only recruitment source asides from the diversity job fair to hire a greater percentage of non-White employees than the company-wide average
+
+Recruitment sources that maintain existing diversity levels:
+
+**Indeed**: roughly equal percentage of employees who are non-White, Female, of Hispanic / Latino descent, and non-US citizens hired this way as company-wide average
+**LinkedIn**: roughly equal percentage of employees who are non-White, Female, of Hispanic / Latino descent, and non-US citizens hired this way as company-wide average
+Recruitment sources that inhibit diversity:
+
+**Employee referrals**: the percentage of non-White and Female employees recruited this way is substantially lower than the company-wide average
+
+Recruitment sources for which there is insufficient data to draw conclusions:
+
+**On-line web application**: only one employee recruited this way
+**Other**: only two employees recruited this way
+
+**Is compensation at the company equitable between identity groups?**
