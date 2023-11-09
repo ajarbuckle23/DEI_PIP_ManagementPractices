@@ -81,3 +81,25 @@ Recruitment sources for which there is insufficient data to draw conclusions:
 **Other**: only two employees recruited this way
 
 ### Is compensation at the company equitable between identity groups?
+
+To answer this question, I will conduct a multiple regression analysis. This means building a multiple regression model (using the entire dataset as opposed to splitting it into training and testing portions, as the goal is not to predict salary) and analyzing the coefficient values for each variable (such as race) to see if they impact salary while controlling for other variables (like position and department)
+
+To answer this question, I created a multiple regression model predicting salary based on identity group characteristics (race, sex, Hispanic / Latino heritage, and US citizenship status) as well as other factors related to salary (department, position, and performance score). I then examined the p-values and coefficients for each feature of the model to identify whether that feature influenced salary. The results were as follows: 
+
+
+**Race**:
+All race categories except 'Two or More Races' had insignificant p-values, and the coefficient for 'Two or More Races' was very close to 0. This means that an employee's race is not associated with their salary in a statistically significant way
+
+**Sex**:
+The female cateogry had an insignificant p-value, meaning that an employee's sex is not associated with their salary in a statistically significant way
+
+**Hispanic / Latino Descent**:
+The Hispanic / Latino category had an insignificant p-value, meaning that an employee being Hispanic / Latino is not associated with their salary in a statistically significant way
+
+**Citizenship**:
+The eligible non-citizen category had an insignificant p-value, and the non-citizen category had a coefficient very close to 0. This means that an employee's US Citizenship status is not associated with their salary in a statistically significant way
+
+**Conclusion**:
+None of the identity features in the regression analysis were meaningfully associated with a salary in a statistically significant way, which means that employee compensation is equitable between all the identity groups included in this analysis
+
+Interestingly, one of the features included in the analysis as a control factor, performance score, was not associated with salary in a statistically significant way. Given that money is one of the top reasons why employees choose to leave the company, the company should re-evaluate its compensation model so that it doesn't lose its high performing employees
