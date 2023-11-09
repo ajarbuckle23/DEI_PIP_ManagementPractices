@@ -30,7 +30,7 @@ From the EDA alone, a number of insights about the company's workforce revealed 
 
 2) The company is doing a good job making sure that its employees are engaged at work, but there is substantial room for improvement in terms of employee satisfaction
 
-3 Employees that are late to work more frequently tend to be less engaged, less satisfied, and worse performing. This means that monitoring employees' tardiness could provide insight into their engagement, satisfaction, and job performance without the need for more costly and time-consuming surveys and performance reviews
+3) Employees that are late to work more frequently tend to be less engaged, less satisfied, and worse performing. This means that monitoring employees' tardiness could provide insight into their engagement, satisfaction, and job performance without the need for more costly and time-consuming surveys and performance reviews
 
 4) The company website accounts for a very small (< 5%) portion of employee recruitments. The company should investigate whether there are problems with the website that could explain this. For example, the website could be designed in a way that makes it difficult to navigate to the 'Careers' page, or the positions listed on the website could not be up-to-date
 
