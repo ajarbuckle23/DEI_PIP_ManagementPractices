@@ -62,9 +62,9 @@ I addressed this question by creating a table that displayed percentages of non-
 
 Recruitment sources that promote diversity:
 
-**Diversity job fair**: this appears to be the best recruitment source overall for promoting diversity, as it ranks first for employees who are non-White, of Hispanic / Latino descent, and non-US citizens
-**Google search**: top recruitment source for female employees
-**CareerBuilder**: top recruitment source for female employees
+**Diversity job fair**: this appears to be the best recruitment source overall for promoting diversity, as it ranks first for employees who are non-White, of Hispanic / Latino descent, and non-US citizens  
+**Google search**: top recruitment source for female employees  
+**CareerBuilder**: top recruitment source for female employees  
 **Company website**: the only recruitment source asides from the diversity job fair to hire a greater percentage of non-White employees than the company-wide average
 
 Recruitment sources that maintain existing diversity levels:
