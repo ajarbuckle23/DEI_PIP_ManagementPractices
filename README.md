@@ -52,11 +52,11 @@ The initial evidence seemed to support the efficacy of PIP's, as the rates of in
 
 This analysis was the most in-depth, being comprised of three parts for three separate questions. 
 
-**What is the overall diversity profile of the company?**
+### What is the overall diversity profile of the company?
 
 I addressed this question by creating bar charts displaying the distribution of employees by various identity group categories: race, sex, Hispanic / Latino heritage, and US citizenship status. 
 
-**Which recruiting sources promote diversity?**
+### Which recruiting sources promote diversity?
 
 I addressed this question by creating a table that displayed percentages of non-White, Female, Hispanic / Latino heritage, and non-US citizen employees across the company, as well as segmented through the various recruitment sources. The company-wide statistics provided benchmarks to compare the recruitment sources with, so that it became clear which recruitment sources promoted diversity and which didn't. These are the results: 
 
