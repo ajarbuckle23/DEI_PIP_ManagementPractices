@@ -100,6 +100,6 @@ The Hispanic / Latino category had an insignificant p-value, meaning that an emp
 The eligible non-citizen category had an insignificant p-value, and the non-citizen category had a coefficient very close to 0. This means that an employee's US Citizenship status is not associated with their salary in a statistically significant way
 
 **Conclusion**:
-None of the identity features in the regression analysis were meaningfully associated with a salary in a statistically significant way, which means that employee compensation is equitable between all the identity groups included in this analysis
+None of the identity features in the regression analysis were meaningfully associated with a salary in a statistically significant way, which means that **employee compensation is equitable between all the identity groups included in this analysis**.
 
 Interestingly, one of the features included in the analysis as a control factor, performance score, was not associated with salary in a statistically significant way. Given that money is one of the top reasons why employees choose to leave the company, the company should re-evaluate its compensation model so that it doesn't lose its high performing employees
