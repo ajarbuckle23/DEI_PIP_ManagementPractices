@@ -4,15 +4,15 @@
 
 In this project, I made use of a fictitious employee dataset to answer critical business questions across several topics
 
-### Management Practices
+**Management Practices**
 
 * How do and job performance, engagement levels, and satisfaction levels vary for employees under different managers?
 
-### Performance Improvement Plans 
+**Performance Improvement Plans**
 
 * How effective are the company's Performance Improvement Plans (PIP's)?
 
-### Diversity, Equity, and Inclusion
+**Diversity, Equity, and Inclusion**
 
 * What is the overall diversity profile of the company?
 * Which recruiting sources promote diversity?
