@@ -18,4 +18,6 @@ In this project, I made use of a fictitious employee dataset to answer critical 
 * Which recruiting sources promote diversity?
 * Is compensation at the company equitable between identity groups?
 
-The entire project is done in the attached Jupyter notebook, where I begin by programmatically collecting the data; cleaning and manipulating it; and performing some exploratory data analysis that provided other valuable insights into the company's workforce. 
+The entire project is done in the attached Jupyter notebook, where I begin by programmatically collecting the data from the Kaggle website; cleaning and manipulating the dataset to prepare it for analysis; and performing some exploratory data analysis that provided other valuable insights into the company's workforce. 
+
+Dataset Link: https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
