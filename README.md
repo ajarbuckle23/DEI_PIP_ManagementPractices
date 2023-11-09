@@ -1,4 +1,4 @@
-# DEI, PIP, and Management Analyses Project 
+# DEI, PIP, and Management Practices Project 
 
 ## Summary
 
