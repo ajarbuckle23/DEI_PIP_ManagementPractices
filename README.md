@@ -6,7 +6,7 @@ In this project, I made use of a fictitious employee dataset to answer critical 
 
 **Management Practices**
 
-* How do and job performance, engagement levels, and satisfaction levels vary for employees under different managers?
+* How do job performance, engagement levels, and satisfaction levels vary for employees under different managers?
 
 **Performance Improvement Plans**
 
