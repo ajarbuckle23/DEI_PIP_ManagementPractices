@@ -12,7 +12,7 @@ In this project, I made use of a fictitious employee dataset to answer critical 
 
 * How effective are the company's Performance Improvement Plans (PIP's)?
 
-**Diversity, and Equity**
+**Diversity and Equity**
 
 * What is the overall diversity profile of the company?
 * Which recruiting sources promote diversity?
